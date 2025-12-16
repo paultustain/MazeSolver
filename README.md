@@ -1,3 +1,3 @@
 # MazeSolver
 
-This is a guided maze solver project
+Code can be found at https://codeberg.org/paultustain/MazeSolver
